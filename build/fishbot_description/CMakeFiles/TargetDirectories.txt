@@ -1,0 +1,9 @@
+/home/zkl/chapt7/chapt7_ws/src/build/fishbot_description/CMakeFiles/uninstall.dir
+/home/zkl/chapt7/chapt7_ws/src/build/fishbot_description/CMakeFiles/fishbot_description_uninstall.dir
+/home/zkl/chapt7/chapt7_ws/src/build/fishbot_description/CMakeFiles/test.dir
+/home/zkl/chapt7/chapt7_ws/src/build/fishbot_description/CMakeFiles/edit_cache.dir
+/home/zkl/chapt7/chapt7_ws/src/build/fishbot_description/CMakeFiles/rebuild_cache.dir
+/home/zkl/chapt7/chapt7_ws/src/build/fishbot_description/CMakeFiles/list_install_components.dir
+/home/zkl/chapt7/chapt7_ws/src/build/fishbot_description/CMakeFiles/install.dir
+/home/zkl/chapt7/chapt7_ws/src/build/fishbot_description/CMakeFiles/install/local.dir
+/home/zkl/chapt7/chapt7_ws/src/build/fishbot_description/CMakeFiles/install/strip.dir

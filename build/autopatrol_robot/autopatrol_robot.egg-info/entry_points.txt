@@ -1,0 +1,5 @@
+[console_scripts]
+autopatrol.launch = autopatrol_robot.autopatrol.launch:main
+patrol_node = autopatrol_robot.patrol_node:main
+speaker = autopatrol_robot.speaker:main
+
